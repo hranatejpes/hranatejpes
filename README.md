@@ -1,6 +1,6 @@
 ## Hey! 👋 I'm Michal.
 
-I am a senior full-stack developer 💻 specializing in PHP (mainly WordPress and Nette Framework). I work full-remote, primarily as an external developer and IT consultant for digital agencies. 
+I am a senior full-stack developer and software architect 💻 specializing in PHP (mainly WordPress and Nette Framework). I work full-remote, primarily as an external developer and IT consultant for digital agencies. 
 
 Although PHP is my main focus, I'm skilled in a wide range of other technologies (front-end coding, server administration, etc.). 
 
