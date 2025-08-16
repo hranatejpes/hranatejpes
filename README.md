@@ -8,7 +8,7 @@ In my free time, when I'm not coding, I enjoy ✈️ traveling, relaxing with a 
 
 I ~~like~~ love ❤️ minimalism and open source.
 
-You can find some of technologies I use below:
+You can find some of the technologies I work with below:
 
 <div style="display:flex;">
 
